@@ -12,9 +12,9 @@ I'm a full stack software developer from the UK with a masters degree in Compute
 
 ## &#x1f4c8; GitHub Stats
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJPutland&theme=nord&langs_count=3" />
-</a>
-<a>
+<a href="https://github.com/AJPutland/AJPutland">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJPutland&show_icons=true&include_all_commits=true&theme=nord&line_height=27" alt="Adam's github stats" />
+</a>
+<a href="https://github.com/AJPutland/AJPutland">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJPutland&theme=nord&langs_count=3" />
 </a>
