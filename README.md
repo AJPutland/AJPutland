@@ -3,7 +3,7 @@
 I'm a full stack software developer from the UK with a masters degree in Computer Science.  
 
 - 🚀 My interests include computer vision, machine learning and app development
-- 🌱  I'm currently learning React-Native and TDD
+- 🌱  I'm currently learning Django, NodeJs and Go
 - 📰 You can find out more about me on my personal website at [ajputland.com](https://ajputland.com)
 
 
