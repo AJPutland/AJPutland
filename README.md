@@ -2,8 +2,8 @@
 
 I'm a full stack software developer from the UK with a masters degree in Computer Science.  
 
-- 🚀 My interests include computer vision, machine learning and app development
-- 🌱  I'm currently learning Django, NodeJs and Go
+- 🚀 My interests include computer vision, machine learning and web app development
+- 🌱  I'm currently learning Go and NextJS
 - 📰 You can find out more about me on my personal website at [ajputland.com](https://ajputland.com)
 
 
@@ -16,5 +16,5 @@ I'm a full stack software developer from the UK with a masters degree in Compute
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJPutland&show_icons=true&include_all_commits=true&theme=nord&line_height=27" alt="Adam's github stats" />
 </a>
 <a href="https://github.com/AJPutland/AJPutland">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJPutland&theme=nord&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJPutland&theme=nord&langs_count=3&hide=jupyter%20notebook" />
 </a>
