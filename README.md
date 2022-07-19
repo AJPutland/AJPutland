@@ -2,13 +2,10 @@
 
 I'm a full stack software developer from the UK with a masters degree in Computer Science.  
 
-- 🚀 My interests include computer vision, machine learning and web app development
-- 🌱  I'm currently learning Go and NextJS
+- 🚀 My interests include computer vision, event-driven systems and web app development
+- 🌱  I'm currently learning Svelte and Prisma
 - 📰 You can find out more about me on my personal website at [ajputland.com](https://ajputland.com)
 
-
-## 🔧 Technologies and tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Node](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)  ![REACT](https://img.shields.io/badge/React-05122A?style=flat&logo=react) ![Gatsby](https://img.shields.io/badge/Gatsby-05122A?style=flat&logo=gatsby) ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## &#x1f4c8; GitHub Stats
 
